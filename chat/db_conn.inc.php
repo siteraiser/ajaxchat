@@ -1,7 +1,7 @@
 <?php 
 $host="localhost";
 $username="cool1234_chat";
-$password="compaq";
+$password="fuck you!";
 $database="cool1234_chat";
 /*$link = mysql_connect($host, $username, $password);
 if (!$link) {
